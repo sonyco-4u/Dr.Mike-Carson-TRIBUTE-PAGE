@@ -1,0 +1,42 @@
+<style>
+  img {
+    display: block;
+  }
+  img {text-align:center; 
+         }   
+  img { max-width: 100%; height: auto; margin: 0 auto;  }
+</style>
+<main id ="main">
+
+<div id = "title">
+  <strong>
+    <h3>
+      DR.NESTOR AJULU
+    </h3>
+   </strong>
+   <img crossorigin="anonymous" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ben_Carson_official_portrait.jpg/800px-Ben_Carson_official_portrait.jpg" class="jpg" alt="Ben Carson official portrait.jpg" max-width="100%"
+height="auto"
+image="center">
+<div id = "img-div">
+<img id = "image">
+<div id = "img-caption">
+  "Dr.Nestor Ajulu is a Young Medical Student Who Graduated from University of Nigeria in 2020 and Became a Doctor in 2022"
+  <div id = "tribute-info">
+    <h3 id = "headline"> Here's a time line of Dr. Nestor Ajulu's life: </h3>
+    <ul>
+    <li>
+      <strong>1993</strong>
+      "-Born in Orba, Nsukka, Enugu State."
+    </li>
+    <li> 
+      <strong> 2005 - 2011 </strong>
+      "- Attended Shalom Academy Secondary School."
+      </li>
+      <li>
+        <strong> 2013 - 2020 </strong>
+        "Attended University of Nigeria Medical School"
+      </li> 
+    </ul>
+    <a id = "tribute-link" href="https://web.facebook.com/photo/?fbid=745947052701599&set=pob.100018589325539" id="tribute-link" target="_blank"> </a>
+  </div>
+  </main>
